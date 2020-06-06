@@ -6,7 +6,7 @@ HELLO! Hey hey~
 3. Lastly, after importing, you can go to http://localhost/LouGehProjectMonitoring
 		to view the prototype.
 
-This is a prototype of the Lou Geh Project Monitoring which in it's name
+This is a prototype of the Lou Geh Project Monitoring which in its name
 already says it monitors projects. You can also see which employees are
 working or has worked under each projects. Not only that, they also store
 employee information as well as the dependents of each employee. 
